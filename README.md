@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm drrk2</h1>
 <h3 align="center">A passionate full-stack developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Barber Shop](https://barbershopckholo.netlify.app)
+- 🔭 I’m currently working website on [Barber Shop](https://barbershopckholo.netlify.app)
 
 - 🌱 I’m currently learning **Bootstrap 5, Python**
 
