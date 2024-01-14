@@ -67,9 +67,9 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/julio-cesar-salazar-serrano" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/julio-cesar-salazar-serrano" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="20" width="20" /></a>
 
-<a href="https://instagram.com/loboccesar" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="https://instagram.com/loboccesar" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="20" width="20" /></a>
 </p>
 
 <!-- Fin el Connect with me -->
