@@ -1,24 +1,3 @@
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/drrk2">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drrk2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drrk2&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -48,6 +27,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,github,html,js,linux,mysql,nodejs,postman,py,vscode&perline=14" />
   </a>
+  ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/drrk2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drrk2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drrk2&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Inicio el Connect with me -->
