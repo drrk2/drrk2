@@ -59,6 +59,23 @@
 </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+
 <!-- Inicio el Connect with me -->
 <h3 align="center" > <a href="https://api.whatsapp.com/send?phone=+523322446053&text=%C2%A1Hola!%20Acabo%20de%20ver%20tu%20perfil%20en%20GitHub%20quisiera%20mas%20informaci%C3%B3n.%20%F0%9F%98%83"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></a><br>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </br> </h3>
 <!-- Inicio de los links -->
