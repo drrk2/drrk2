@@ -70,7 +70,7 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/drrk2/whatsapp-web.js">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=drrk2&repo=whatsapp-web.js" alt="GitHub Stats" />
     </a>
   </p>
 </div>
