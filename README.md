@@ -10,6 +10,8 @@
   </ul>
 </div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=950&pause=1000&random=false&width=435&lines=Desarrollador+Web;Web+Developer;Systems+Engineer;Ingeniero+En+Sistemas;Software+Developer;Desarrollador+de+Software" alt="Typing SVG" /></a>
+
 
 <!--- snake -->
 <div align="center">
