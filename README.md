@@ -47,7 +47,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Cesar </h1><h3 align="center">Passionate Student | Exploring the Boundless World of Technology</h3></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Cesar </h1><h3 align="center"></h3></summary>
+    Passionate Student | Exploring the Boundless World of Technology
   </ul>
 </div>
 
