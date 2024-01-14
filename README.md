@@ -90,7 +90,7 @@ __Check out my GitHub repository:__
 <h3 align="center" > <a href="https://api.whatsapp.com/send?phone=+523322446053&text=%C2%A1Hola!%20Acabo%20de%20ver%20tu%20perfil%20en%20GitHub%20quisiera%20mas%20informaci%C3%B3n.%20%F0%9F%98%83"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></a><br>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </br> </h3>
 <!-- Inicio de los links -->
 <p align="center">
-<a href="https://linkedin.com/in/julio-cesar-salazar-serrano" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Cesarserrano" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/julio-cesar-salazar-serrano-98ab73299/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Cesarserrano" height="50" width="50" /></a>
 <a href="https://instagram.com/loboccesar" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Cesarserrano" height="50" width="50" /></a>
 </p>
 <!-- Fin el Connect with me -->
