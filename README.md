@@ -1,25 +1,4 @@
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Javascript,Python and MySQL**
 
-- 🧑‍🎓 I’m a Student computer systems engineer at **UVM**
-
-- 💬 Ask me about **Web development | Software developer**
-
-- 📫 How to reach me **jcesar.serrano05@gamil.com**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-</tr>
-</table>
-
----
 
 
 
@@ -60,10 +39,36 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **Javascript,Python and MySQL**
+
+- 🧑‍🎓 I’m a Student computer systems engineer at **UVM**
+
+- 💬 Ask me about **Web development | Software developer**
+
+- 📫 How to reach me **jcesar.serrano05@gamil.com**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+---
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></summary>
+  <ul align="center">  
+  <summary><h2 style="display: inline-block">Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
