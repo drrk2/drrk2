@@ -54,8 +54,8 @@
 <!--GIT ANALYTICS-->
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drrk2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drrk2&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=drrk2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=drrk2&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
