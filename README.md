@@ -1,8 +1,3 @@
-
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
-
-<table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
@@ -52,7 +47,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Cesar </h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Cesar </h1><h3 align="center">Passionate Student | Exploring the Boundless World of Technology</h3></summary>
   </ul>
 </div>
 
