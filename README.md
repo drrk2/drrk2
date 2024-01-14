@@ -67,7 +67,7 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/drrk2/R-Presidential-Meal-website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=drrk2&repo=R-Presidential-Meal-website" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/drrk2/whatsapp-web.js">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=drrk2&repo=whatsapp-web.js" alt="GitHub Stats" />
