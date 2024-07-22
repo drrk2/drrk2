@@ -12,13 +12,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=950&pause=1000&random=false&width=435&lines=Desarrollador+Web;Web+Developer;Systems+Engineer;Ingeniero+En+Sistemas;Software+Developer;Desarrollador+de+Software" alt="Typing SVG" /></a>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
